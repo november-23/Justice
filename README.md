@@ -1,2 +1,2 @@
 # Justice
- A mod for Enter the Gungeon that significantly reduces the rarity of active items if you don't have space for them.
+Tired of active items polluting the item pool, showing up even if you don't need them? Well, this mod is for you! Significantly reduces the rarity of active items if you don't have space for them. Active items that come with increased active capacity, like the Rat Sack, will be unaffected.
