@@ -14,7 +14,7 @@ namespace Justice
     {
         public const string GUID = "spapi.etg.justice";
         public const string NAME = "Justice";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.2";
         
         public void Awake()
         {
